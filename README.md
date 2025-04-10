@@ -3,7 +3,7 @@
 ![Asuka](https://media.giphy.com/media/wGUpSQWxnYpji/giphy.gif?cid=ecf05e479hkjn1j5cnvd308hpfox8eoqsz9s9f894d5uzrfe&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ## About Me
-Hi, I'm **Sabin Karki**, a developer from Nepal . I'm currently learning **Spring Boot** and **React**.
+Hi, I'm **Sabin Karki**, a developer from Nepal . I'm currently diving deeper into **Spring Boot** , **React** and learning **Typescript** and planning to learn **Nextjs** to hone my frontend skills.
 
 ## Skills
 <p align="left">
